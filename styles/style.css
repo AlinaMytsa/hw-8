@@ -1,0 +1,49 @@
+main{
+  margin: 5%;
+}
+section{
+  border-width:5px;
+  border-color: darkred;
+  border-style: solid;
+  margin: 0 auto;
+}
+img{
+  width: 100%;
+}
+.item{
+  width: 20%;
+  display: inline-block;
+  box-sizing: border-box;
+  margin-left: 9%;
+}
+.heading{
+  text-align: center;
+  color: cornflowerblue;
+  font-size: 25px;
+}
+.main-text{
+  text-align: center;
+}
+.part1{
+  display: inline-block;
+  width: 32%;
+  margin-left: 3%;
+  box-sizing: border-box;
+}
+.part2{
+  display: inline-block;
+  width: 49%;
+  margin-left:15%;
+  margin-bottom: 2%;
+  box-sizing: border-box;
+  font-size: 16px;
+  line-height: 2;
+}
+.heading2{
+  font-size: 35px;
+  text-align: center;
+}
+.main-text2{
+  font-size: 30px;
+}
+
